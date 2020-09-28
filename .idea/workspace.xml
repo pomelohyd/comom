@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1i5ApVtCUgIa9EIfdbgzeYkot9H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -107,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601187261953</updated>
-      <workItem from="1601187266729" duration="15085000" />
+      <workItem from="1601187266729" duration="15934000" />
     </task>
     <servers />
   </component>
@@ -115,6 +120,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="560" y="114" width="1090" height="812" key="CommitChangelistDialog2" timestamp="1601261567228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="114" width="1090" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601261567228" />
     <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1601200940263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,6 +144,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601187581882" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601261601722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601261601722" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601200129674">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
